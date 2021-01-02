@@ -22,7 +22,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html"><h1 class="navtext">WISHING YOU A VERY VERY HAPPY BIRTH DAY ANISH SIR </h1></a>
+            <a class="nav-link active" aria-current="page" href="index.html"><h1>WISHING YOU A VERY VERY HAPPY BIRTH DAY ANISH SIR </h1></a>
           </li>
          
          
